@@ -1,19 +1,28 @@
 [
   {
     "name": "Afghanistan",
-    "colors": [
-      "#090",
-      "#bf0000",
-      "#000",
-      "#fff",
-      "#bd6b00"
-    ]
+    "colors1": [
+      {
+        "code": "#090000",
+        "percentage": "25%"
+      }],
+    "colors2": [
+      {
+        "code": "#bf0000",
+        "percentage": "40%"
+      }],
+    "colors3": [
+      {
+        "code": "#bd6b00",
+        "percentage": "35%"
+      }]
   },
   {
     "name": "Albania",
-    "colors": [
-      "#e41e20",
-      "#000"
-    ]
+    "colors1": [
+      {
+        "code": "#e41e20",
+        "percentage": "100%"
+      }]
   }
 ]
